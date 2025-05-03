@@ -45,7 +45,6 @@
 | **[DeepSampler](https://github.com/nhrot-fc/DeepSampler)** | Music source separation model, designed to isolate specific acoustic signatures from music.    | `Python`, `PyTorch`  |
 
 ---
-Answer from Perplexity: pplx.ai/share
 
 ## <samp>📊 GitHub Stats</samp>
 
