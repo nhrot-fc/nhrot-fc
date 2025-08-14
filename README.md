@@ -1,7 +1,4 @@
 <div align="center">
-  <h1>
-    <span style="color:#9370DB;">Botame tu Ga</span>
-  </h1>
   <img src="https://i.imgur.com/8G1D8cR.jpg" width="300" alt="ThinkPad Pixel Art"><br/>
   <samp>
     <span style="color:#8A2BE2;">Linux Enjoyer</span> |
