@@ -1,4 +1,3 @@
----
 
 ## Featured Projects
 | Project                                                    | Description                                                                                    | Core Technology      |
