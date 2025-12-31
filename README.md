@@ -1,16 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/8G1D8cR.jpg" width="300" alt="ThinkPad Pixel Art"><br/>
-  <samp>
-    <span style="color:#8A2BE2;">Linux Enjoyer</span> |
-    <span style="color:#800080;">Software Developer</span>
-  </samp>
-  <br/><br/>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=arch" /><br/>
-    <samp><i><span style="color:#6e4a7e;">I use Arch btw</span></i></samp>
-  </div>
-</div>
-
 ---
 
 ## Featured Projects
