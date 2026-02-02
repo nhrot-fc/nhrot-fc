@@ -10,13 +10,7 @@
 
 ## <samp>Stats</samp>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nhrot-fc&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhrot-fc&layout=compact&langs_count=8&theme=catppuccin_mocha&hide_border=true"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhrot-fc&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nhrot-fc&theme=darcula&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
